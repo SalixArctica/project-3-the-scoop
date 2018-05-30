@@ -1,0 +1,23 @@
+users:
+  Hank:
+    username: Hank
+    articleIds:
+      - 1
+    commentIds: []
+  qwer:
+    username: qwer
+    articleIds: []
+    commentIds: []
+articles:
+  '1':
+    id: 1
+    title: ASDF
+    url: btbt
+    username: Hank
+    commentIds: []
+    upvotedBy:
+      - Hank
+    downvotedBy: []
+comments: {}
+nextArticleId: 2
+nextCommentId: 1
